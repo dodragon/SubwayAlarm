@@ -1,4 +1,4 @@
-package com.dohyeon.subway_alarm
+package com.dohyeon.subway_alarm.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

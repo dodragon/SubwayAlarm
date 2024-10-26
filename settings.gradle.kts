@@ -21,4 +21,10 @@ dependencyResolutionManagement {
 
 rootProject.name = "SubwayAlarm"
 include(":app")
- 
+include(":common")
+include(":common-android")
+include(":resources")
+include(":entity")
+include(":model")
+include(":domain")
+include(":data")
